@@ -1,0 +1,23 @@
+#BlueJ package file
+objectbench.height=76
+objectbench.width=1420
+package.editor.height=662
+package.editor.width=1312
+package.editor.x=40
+package.editor.y=75
+package.numDependencies=0
+package.numTargets=2
+package.showExtends=true
+package.showUses=true
+target1.height=62
+target1.name=individual_lab
+target1.type=PackageTarget
+target1.width=100
+target1.x=60
+target1.y=180
+target2.height=62
+target2.name=pair_programming
+target2.type=PackageTarget
+target2.width=130
+target2.x=60
+target2.y=100
