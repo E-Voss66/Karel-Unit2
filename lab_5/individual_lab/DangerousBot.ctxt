@@ -1,4 +1,14 @@
 #BlueJ class context
-comment0.params=
-comment0.target=void\ choosePile()
-numComments=1
+comment0.target=DangerousBot
+comment0.text=\r\n\ @author\ \:\ \ D.\ Appel\r\n
+comment1.params=
+comment1.target=void\ choosePile()
+comment2.params=
+comment2.target=void\ faceWest()
+comment3.params=
+comment3.target=void\ faceEast()
+comment4.params=
+comment4.target=void\ pickUpBeepers()
+comment5.params=
+comment5.target=boolean\ pileIsOdd()
+numComments=6
